@@ -1,0 +1,6 @@
+Alex 20 M MegaPhone 0 1
+Nick 31 M TestPhone 1 0
+Samantha 43 F AquaTech 1 0
+Jacob 19 M MountainConnection 0 0
+Bob 28 M AquaTech 0 1
+Alice 33 F TestPhone 1 1

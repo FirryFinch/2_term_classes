@@ -1,0 +1,13 @@
+int menu();
+void read_from_file(char*, Planet*, int*);
+void read_from_file_2(char*, Planet*, int*);
+void write_to_file(char*, Planet*, int*, int*);
+void write_to_file_2(char*, Planet*, int*, int*);
+void sort_menu(Planet*, int*);
+void sort_method(Planet*, int*, int);
+void sort(Planet*, int*, int, int);
+void sort_2(Planet*, int*, int, int);
+void edit_menu(Planet*, int*);
+void edit(Planet*, int*, int);
+void longest_name_finder(Planet*, int*, int*);
+void swap(Planet*, Planet*);
